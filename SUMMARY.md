@@ -25,6 +25,7 @@
     - [29장 클린 임베디드 아키텍처](Book/clean-architecture/no5/ch29.md)
   - [6부. 세부사항](Book/clean-architecture/no6/README.md)
     - [30장 데이터베이스는 세부사항이다](Book/clean-architecture/no6/ch30.md)
+    - [31장 웹은 세부사항이다](Book/clean-architecture/no6/ch31.md)
 - [단위 테스트](Book/unit-test/README.md)
   - [1부. 더 큰 그림](Book/unit-test/no1/README.md)
     - [1장 단위 테스트의 목표](Book/unit-test/no1/ch1.md)
