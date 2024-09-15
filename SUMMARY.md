@@ -35,3 +35,4 @@
     - [3장 단위 테스트 구조](Book/unit-test/no1/ch3.md)
   - [2부. 개발자에게 도움이 되는 테스트 만들기](Book/unit-test/no2/README.md)
     - [4장 좋은 단위 테스트의 4대 요소](Book/unit-test/no2/ch4.md)
+    - [5장 목과 테스트 취약성](Book/unit-test/no2/ch5.md)
