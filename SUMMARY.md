@@ -39,4 +39,4 @@
 - [스프링으로 시작하는 리액티브 프로그래밍](Book/spring-reactive-programming/README.md)
   - [Part1 리액티브 프로그래밍](Book/spring-reactive-programming/part1/README.md)
     - [Chapter 01 리액티브 시스템과 리액티브 프로그래밍](Book/spring-reactive-programming/part1/ch1.md)
-- [스프링 배치 완벽 가이드](BOok/spring-batch-guide/README.md)
+- [스프링 배치 완벽 가이드](Book/spring-batch-guide/README.md)
