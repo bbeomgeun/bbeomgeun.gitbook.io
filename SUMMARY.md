@@ -44,4 +44,5 @@
     - [Chapter 04 리액티브 프로그래밍을 위한 사전 지식](Book/spring-reactive-programming/part1/ch4.md)
   - [Part2 Project Reactor](Book/spring-reactive-programming/part2/README.md)
     - [Chapter 05 Reactor 개요](Book/spring-reactive-programming/part2/ch5.md)
+    - [Chapter 06 마블 다이어그램(Marble Diagram)](Book/spring-reactive-programming/part2/ch6.md)
 - [스프링 배치 완벽 가이드](Book/spring-batch-guide/README.md)
