@@ -46,3 +46,6 @@
     - [Chapter 05 Reactor 개요](Book/spring-reactive-programming/part2/ch5.md)
     - [Chapter 06 마블 다이어그램(Marble Diagram)](Book/spring-reactive-programming/part2/ch6.md)
 - [스프링 배치 완벽 가이드](Book/spring-batch-guide/README.md)
+- [데이터 중심 어플리케이션 설계] (Book/designing-data-intensive-applications/README.md)
+  - [Part2 분산 데이터](Book/designing-data-intensive-applications/part2/README.md)
+    - [Chapter 9 일관성과 합의](Book/designing-data-intensive-applications/part2/ch9.md)
